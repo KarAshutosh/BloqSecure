@@ -69,7 +69,7 @@ const HowItWorks = () => {
             </div>
             <div className={faq1? "description active" : "description close"} >
               <p>
-              Absolutely not. At XYZ, we value our users' privacy and security above everything else.
+              Absolutely not. At XYZ, we value our users&apos privacy and security above everything else.
                We will never sell or share your personal data with any third parties.
               </p>
             </div>
@@ -131,7 +131,7 @@ const HowItWorks = () => {
             </div>
             <div className={faq4? " description active" : "description close"} >
               <p>
-              No, we don't. Instead, we use advanced security measures and trusted custodians to protect your assets and ensure a smooth user experience.
+              No, we don&apost. Instead, we use advanced security measures and trusted custodians to protect your assets and ensure a smooth user experience.
                This way, we can offer you a secure and easy-to-use platform.
               </p>
             </div>
@@ -153,7 +153,7 @@ const HowItWorks = () => {
             </div>
             <div className={faq1? "description active" : "description close"} >
               <p>
-              Absolutely not. At XYZ, we value our users' privacy and security above everything else.
+              Absolutely not. At XYZ, we value our users&apos privacy and security above everything else.
                We will never sell or share your personal data with any third parties.
               </p>
             </div>
@@ -194,7 +194,7 @@ const HowItWorks = () => {
             </div>
             <div className={faq4? " description active" : "description close"} >
               <p>
-              No, we don't. Instead, we use advanced security measures and trusted custodians to protect your assets and ensure a smooth user experience.
+              No, we don&apost. Instead, we use advanced security measures and trusted custodians to protect your assets and ensure a smooth user experience.
                This way, we can offer you a secure and easy-to-use platform.
               </p>
             </div>
