@@ -18,7 +18,7 @@ export default function Home() {
           <div className="early-access">
             <h4>Request Early Access</h4>
             <input type="text" placeholder="Enter your email address" />
-            <button className="submitBtn">Submit</button>
+            <a href = "https://forms.gle/GvhtU96DFmym8srL8" target = "_blank" ><button className="submitBtn">Submit</button></a>
           </div>
         </div>
         <div className="heading-block">

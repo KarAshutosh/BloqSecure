@@ -5,9 +5,10 @@ const Blog = () => {
   return (
     <div className='blog'>
       <Image 
-      width={380}
-       height={236} 
-      className='image' 
+        width={380}
+        height={236} 
+        className='image' 
+        alt = "Image"
       />
       <h3 className='categoryBtn'>CATEGORY</h3>
       <h1>Date</h1>

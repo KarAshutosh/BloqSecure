@@ -33,7 +33,7 @@ const Navbar = () => {
                 <Link href={'/HowItWorks'} className={howItWorks? 'active nav-option' : 'nav-option'} onClick={() => handlePageChange(1,0,0,0)}>
                 How it works
                 </Link>
-                <Link href={'/'} className={documentation? 'active nav-option' : 'nav-option'} onClick={() => handlePageChange(0,1,0,0)}>
+                <Link href={'https://github.com/KarAshutosh/BloqSecure_V2.0.1_documentation'} className={documentation? 'active nav-option' : 'nav-option'} onClick={() => handlePageChange(0,1,0,0)}>
                 Documentation
                 </Link>
                 <Link href={'/Blogs'} className={blogs? 'active nav-option' : 'nav-option'} onClick={() => handlePageChange(0,0,1,0)}>
@@ -44,7 +44,7 @@ const Navbar = () => {
                 </Link>
             </div>
             <div>
-                <Link href={'/'} className='navbtn' onClick={() => handlePageChange(0,0,0,0)}>
+                <Link href={'https://accounts.bloqsecure.com/'} className='navbtn' onClick={() => handlePageChange(0,0,0,0)}>
                     Get Started
                     </Link>
             </div>

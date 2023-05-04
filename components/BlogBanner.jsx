@@ -6,9 +6,10 @@ const BlogBanner = () => {
     <div className='blogBanner'>
         <div className="blogBanner-block">
             <Image 
-            width={673} 
-            height={472} 
-            className='image'
+              width={673} 
+              height={472} 
+              className='image'
+              alt = "Image"
             />
         </div>
         <div className="blogBanner-block">

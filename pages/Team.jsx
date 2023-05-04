@@ -55,6 +55,7 @@ const Team = () => {
                             width={280}
                             height={310}
                             className="cofounderImg image"
+                            alt = "Image of Akanksha Dasmohapatra"
                         />
                         <h1>Akanksha</h1>
                         <h1>Dasmohapatra</h1>
@@ -85,6 +86,7 @@ const Team = () => {
                             width={280}
                             height={310}
                             className="cofounderImg image"
+                            alt = "Image of Ashutosh Karanam"
                         />
                         <h1>Ashutosh</h1>
                         <h1>Karanam</h1>
